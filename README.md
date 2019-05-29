@@ -23,7 +23,5 @@ node app.js
 
 ```
 
-```
 ![demo.png](https://i.loli.net/2019/05/29/5cee4a7c1baac92140.png)
-```
 
